@@ -37,6 +37,11 @@
 	</repositories>
 	<dependencies>
 		<dependency>
+			<groupId>com.db4o</groupId>
+			<artifactId>db4o-full-java5</artifactId>
+			<version>7.13-SNAPSHOT</version>
+		</dependency>
+ 		<dependency>
 			<groupId>com.noelios.restlet</groupId>
 			<artifactId>com.noelios.restlet.ext.servlet</artifactId>
 			<version>${restlet.version}</version>
